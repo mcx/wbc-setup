@@ -1,0 +1,11 @@
+gazeboxbotplugin	 
+modelinterfacerbdl
+robotinterfaceros
+robotinterfacexbotrt
+xbotcore
+xbotdummy 
+xbotinterface	 
+cartesian_interface
+matlogger2 
+open_sot 
+xbot_msgs
